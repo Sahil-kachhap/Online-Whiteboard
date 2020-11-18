@@ -7,12 +7,11 @@
 ### Show some :heart: and star the repo to support the project
 
 ## Overview
-
+A Online Whiteboard with features of drawing whenever mouse is moved while clicked and an input box to specify color(or HEX Code) for the Drawing tool.
 
 ## Technology Stack
 - HTML5 
 - HTML Canvas
-- CSS3
 - JavaScript (ES6)
 
 
