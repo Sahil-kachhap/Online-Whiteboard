@@ -24,4 +24,4 @@
 
 ## Getting Started 🚀
 - Fork The Repo
-- Clone the repo `git clone https://github.com/Sahil-kachhap/GDG-Devfest-India`
+- Clone the repo `git clone https://github.com/Sahil-kachhap/Online-Whiteboard`
